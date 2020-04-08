@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "Life as we know it",
+      "status": "Just do it",
+      "mode": "determened",
+      "body": "This is difficult to do but I must keep going",
+      "id": 2
+    },
+    {
+      "title": "Martion Chronicals",
+      "status": "sdf",
+      "mode": "sdf",
+      "body": "sdfs",
+      "id": 3
+    }
+  ]
+}
